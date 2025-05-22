@@ -1,0 +1,5 @@
+
+train: Yolo-Data/train/images
+val: Yolo-Data/val/images
+nc: 1
+names: ['Plate']
