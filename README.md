@@ -25,8 +25,8 @@ _________________
 _________________
 💻 How to use
 First run the code below on your CMD:
-- python -m venv <your env name>
-- <your env name>\Scripts\activate
+- python -m venv (your env name)
+- (your env name)\Scripts\activate
 ```python
 pip install -r requirements.txt
 
