@@ -23,6 +23,17 @@ _________________
 * Torch
 * Ultralytics
 _________________
+💻 How to use
+First run the code below on your CMD:
+- python -m venv <your env name>
+- <your env name>\Scripts\activate
+```python
+pip install -r requirements.txt
+
+python Interface.py
+```
+Enjoy!
+_________________
 🖼️ Sample Results
 #### Test Image
 ![test_image_2](https://github.com/user-attachments/assets/557936cb-c6a9-43e9-8f1c-3b2b74616afa)
